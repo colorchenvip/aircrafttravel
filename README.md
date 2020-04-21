@@ -2,7 +2,19 @@
 分布式系统正在更新中....
 
 ### 如何在本地跑起来
+### 一 Mac用户
+#### 温馨提示：首先安装一下 homebrew  mac上强大的包管理工具 安装自己百度撒
 
+##### 1 redis：brew install redis
+- 启动命令 redis-server 
+
+##### 2 zookeeper: brew install zookeeper
+- 启动命令 zkServer start
+
+##### 3 rabbitmq: brew install rabbitmq
+- 启动命令 rabbitmq-server
+ 
+### 二 window用户
 #### redis window 下载 以及 客户端下载
 
 链接：https://pan.baidu.com/s/1BM6WoX-A1AYjXxUdE0ghBg 
